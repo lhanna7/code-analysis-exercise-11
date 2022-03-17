@@ -35,14 +35,14 @@ function (actualAge){
 
 | Input | Output |
 | ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+|  1     |   HY:1 / CY:15 / DY:15     | 
+|  20    |  HY:20 / CY:96  / DY:114   | 
+|  90    |  HY:90 / CY:376  / DY:464  | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>This program takes the input, actualAge, and provides the output of humanYears, catYears, and dogYears. The first return will only happen if actualAge===1, then will give cat/dogYears the output of 15 and the humanYears output will be 1. The second return will only happen if actualAge===2, then will give cat/dogYears the output of 24 and the humanYears output will be 2. Any number other than 1 or 2 will have to be run through the third return.  </td>
   </tr>
 </table>
 
