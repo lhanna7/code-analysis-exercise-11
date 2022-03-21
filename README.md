@@ -35,9 +35,9 @@ function (actualAge){
 
 | Input | Output |
 | ----- | ------ |
-|  1     |   HY:1 / CY:15 / DY:15     | 
-|  20    |  HY:20 / CY:96  / DY:114   | 
-|  90    |  HY:90 / CY:376  / DY:464  | 
+|  1     |  [humanYears: "1", catYears: "15", dogYears: "15"]   | 
+|  20    |  [humanYears: "20", catYears: "96", dogYears: "114"]   | 
+|  90    | [humanYears: "90", catYears: "376", dogYears: "464"]  | 
 
 <table>
   <tr>
